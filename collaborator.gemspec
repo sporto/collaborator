@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "collaborator"
-  s.version = ""
+  s.version = "0.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Sebastian Porto"]
@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
     "Gemfile.lock",
     "LICENSE.txt",
     "Rakefile",
+    "VERSION",
     "collaborator.gemspec",
     "lib/collaborator.rb",
     "readme.markdown",
