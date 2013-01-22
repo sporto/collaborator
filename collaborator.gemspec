@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
     "Gemfile.lock",
     "LICENSE.txt",
     "Rakefile",
+    "collaborator.gemspec",
     "lib/collaborator.rb",
     "readme.markdown",
     "spec/collaborator_spec.rb",
