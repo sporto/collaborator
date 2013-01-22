@@ -6,6 +6,8 @@ A simple gem for injecting dependencies into classes. I got bored of copying the
 Usage
 -----
 
+	require 'collaborator'
+
 	class BugFinder
 		...
 	end
