@@ -5,19 +5,19 @@
 
 Gem::Specification.new do |s|
   s.name = "collaborator"
-  s.version = "0.0.2"
+  s.version = "0.5.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Sebastian Porto"]
-  s.date = "2013-01-22"
+  s.date = "2013-09-27"
   s.description = "A simple macro for injecting dependencies"
-  s.email = "sebasporto@gmail.com"
+  s.email = "s@porto5.com"
   s.extra_rdoc_files = [
     "LICENSE.txt"
   ]
   s.files = [
     ".document",
-    ".rmvrc",
+    ".travis.yml",
     "Gemfile",
     "Gemfile.lock",
     "LICENSE.txt",
@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/sporto/collaborator"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.24"
+  s.rubygems_version = "1.8.25"
   s.summary = "A simple macro for injecting dependencies"
 
   if s.respond_to? :specification_version then
